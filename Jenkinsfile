@@ -48,7 +48,7 @@ pipeline {
     }
     success {
       echo 'All tests passed. Deployment completed.'
-      echo 'testing the triggers'
+      echo 'testing the trigger'
     }
   }
 }
