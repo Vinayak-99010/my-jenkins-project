@@ -51,3 +51,7 @@ pipeline {
     }
   }
 }
+
+triggers {
+    githubPush()
+  }
